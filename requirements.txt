@@ -4,7 +4,6 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-pickle
 pyYAML
 types-PyYAML
 Flask
