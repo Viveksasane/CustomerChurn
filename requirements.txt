@@ -1,4 +1,4 @@
-pandas 
+pandas
 notebook
 numpy
 scikit-learn
@@ -8,4 +8,5 @@ pyYAML
 types-PyYAML
 Flask
 nltk
+xgboost
 -e .
